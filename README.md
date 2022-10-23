@@ -8,7 +8,7 @@ This repository contains the SQL Projects that showcase my SQL skills and grasp 
 - [Case Study #3: Foodie-Fi](#case-study-3-foodie-fi)
 - [Case Study #4: Data Bank](#case-study-4-data-bank)
 - [Case Study #5: Data Mart](#case-study-5-data-mart)
-- [Case Study #6: Health Analytics](#case-study-6-health-analytics)
+
 
 
 ***
