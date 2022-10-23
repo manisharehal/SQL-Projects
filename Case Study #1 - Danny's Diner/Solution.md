@@ -3,7 +3,7 @@
 
 ## Solution
 
-View the complete syntax [here].
+View the complete syntax [here](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/SQL%20Syntax/Danny's%20Diner.sql).
 
 ***
 
