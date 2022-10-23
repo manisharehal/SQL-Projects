@@ -95,4 +95,4 @@ This is how the clean `runner_orders_temp` table looks like and we will use this
 
 ***
 
-Click here for [solution] to **A. Pizza Metrics**!
+Click here for [solution](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md) to **A. Pizza Metrics**!
