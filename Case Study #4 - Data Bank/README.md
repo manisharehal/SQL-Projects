@@ -7,9 +7,9 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - Solution
-  - [A. Customer Nodes Exploration]
-  - [B. Customer Transactions]
-  - [Complete SQL Syntax]
+  - [A. Customer Nodes Exploration](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%234%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.md)
+  - [B. Customer Transactions](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%234%20-%20Data%20Bank/B.%20Customer%20Transactions.md)
+  - [Complete SQL Syntax](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%234%20-%20Data%20Bank/SQL%20Syntax)
 
 ***
 
