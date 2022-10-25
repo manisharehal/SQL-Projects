@@ -92,4 +92,4 @@ _Updating_
 
 ***
 
-Click [here] for **B. Customer Transactions** solution!
+Click [here](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%234%20-%20Data%20Bank/B.%20Customer%20Transactions.md) for **B. Customer Transactions** solution!
