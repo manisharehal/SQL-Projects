@@ -6,12 +6,12 @@
 ## 📚 Table of Contents
 - [Business Task](#business-task)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
-- [Case Study Solution]
-  - [A. Data Cleansing Steps]
-  - [B. Data Exploration]
-  - [C. Before & After Analysis]
-  - [D. Bonus Question]
-  - [Complete SQL Syntax]
+- [Case Study Solution](#case-study-solution)
+  - [A. Data Cleansing Steps](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/A.%20Data%20Cleansing%20Steps.md)
+  - [B. Data Exploration](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/B.%20Data%20Exploration.md)
+  - [C. Before & After Analysis](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/C.%20Before%20%26%20After%20Analysis.md)
+  - [D. Bonus Question](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/D.%20Bonus%20Question.md)
+
 
 ***
 
@@ -52,7 +52,7 @@ Each record in the dataset is related to a specific aggregated slice of the unde
 
 ### A. Data Cleansing Steps
 
-View my solution [here]
+View my solution [here](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/A.%20Data%20Cleansing%20Steps.md)
 
 In a single query, perform the following operations and generate a new table in the `data_mart` schema named `clean_weekly_sales`:
 - Convert the `week_date` to a `DATE` format
@@ -77,7 +77,7 @@ In a single query, perform the following operations and generate a new table in 
 
 ### B. Data Exploration 
 
-View my solution [here].
+View my solution [here](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/B.%20Data%20Exploration.md).
 
 1. What day of the week is used for each week_date value?
 2. What range of week numbers are missing from the dataset?
@@ -93,7 +93,7 @@ View my solution [here].
 
 ### C. Before & After Analysis 
 
-View my solution [here].
+View my solution [here](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/C.%20Before%20%26%20After%20Analysis.md).
 
 This technique is usually used when we inspect an important event and want to inspect the impact before and after a certain point in time.
 
@@ -108,7 +108,7 @@ Using this analysis approach - answer the following questions:
 
 ### D. Bonus Question
 
-View my solution [here].
+View my solution [here](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%235%20-%20Data%20Mart/D.%20Bonus%20Question.md).
 
 Which areas of the business have the highest negative impact in sales metrics performance in 2020 for the 12 week before and after period?
 - `region`
