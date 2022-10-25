@@ -35,4 +35,4 @@ Customer 15 commenced free trial on 17 Mar 2020, then upgraded to pro monthly pl
 
 ***
 
-Click here for [solution]to **B. Data Analysis Questions**! 🙌🏻
+Click here for [solution](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/B.%20Data%20Analysis%20Questions.md) to **B. Data Analysis Questions**! 🙌🏻
