@@ -17,7 +17,7 @@ This repository contains the SQL Projects that showcase my SQL skills and grasp 
 ## Case Study #1: Danny's Diner 
 <img src="https://user-images.githubusercontent.com/81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
-View the case study [here](https://8weeksqlchallenge.com/case-study-1/) and my **solution** [here] and on [Medium].
+View the case study [here](https://8weeksqlchallenge.com/case-study-1/) and my **solution** [here](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) and on [Medium].
 
 ### Business Task
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
@@ -32,7 +32,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 <img src="https://user-images.githubusercontent.com/81607668/127271856-3c0d5b4a-baab-472c-9e24-3c1e3c3359b2.png" alt="Image" width="500" height="520">
 
-View the case study [here](https://8weeksqlchallenge.com/case-study-2/) and my **solution** [here] and on [Medium].
+View the case study [here](https://8weeksqlchallenge.com/case-study-2/) and my **solution** [here](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) and on [Medium].
 
 ### Business Task
 Danny is expanding his new Pizza Empire and at the same time, he wants to Uberize it, so Pizza Runner was launched!
@@ -50,7 +50,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 ## Case Study #3: Foodie-Fi
 
 <img src="https://user-images.githubusercontent.com/81607668/129742132-8e13c136-adf2-49c4-9866-dec6be0d30f0.png" width="500" height="520" alt="image">
-View the case study [here](https://8weeksqlchallenge.com/case-study-3/) and my **solution** [here] and on [Medium].
+View the case study [here](https://8weeksqlchallenge.com/case-study-3/) and my **solution** [here](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%233%20-%20Foodie-Fi) and on [Medium].
 
 ### Business Task
 Danny and his friends launched a new startup Foodie-Fi and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world.
@@ -69,7 +69,7 @@ This case study focuses on using subscription style digital data to answer impor
 
 <img src="https://user-images.githubusercontent.com/81607668/130343294-a8dcceb7-b6c3-4006-8ad2-fab2f6905258.png" alt="Image" width="500" height="520">
 
-View the case study [here](https://8weeksqlchallenge.com/case-study-4/) and my **solution** [here] and on [Medium].
+View the case study [here](https://8weeksqlchallenge.com/case-study-4/) and my **solution** [here](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%234%20-%20Data%20Bank) and on [Medium].
 
 ### Business Task
 Danny launched a new initiative, Data Bank which runs just like any other digital bank - but it isn’t only for banking activities, they also have the world’s most secure distributed data storage platform!
@@ -92,7 +92,7 @@ This case study is all about calculating metrics, growth and helping the busines
 
 <img src="https://user-images.githubusercontent.com/81607668/131437982-fc087a4c-0b77-4714-907b-54e0420e7166.png" alt="Image" width="500" height="520">
 
-View the case study [here](https://8weeksqlchallenge.com/case-study-5/) and my **solution** [here] and on [Medium].
+View the case study [here](https://8weeksqlchallenge.com/case-study-5/) and my **solution** [here](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%235%20-%20Data%20Mart) and on [Medium].
 
 ### Business Task
 Data Mart is an online supermarket that specialises in fresh produce.
@@ -136,7 +136,7 @@ Analyse Covid-19 data and its impact on Malaysia stock market, specifically the 
 - Bursa Malaysia KLSE Index Prices from 1 Jan 2020 to 2 Jul 2021 from [Yahoo! Finance](https://finance.yahoo.com/quote/%5EKLSE?p=%5EKLSE).
 
 ### Tools
-- Microsoft SQL Server 2019 for data analysis - View [SQL scripts]
+- Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%236:%20Covid-19%20and%20impact%20on%20Malaysia%20Stock%20Market/SQLQuery3.sql)
 - Tableau for data visualisation - View 
 ### Posted in
 - [Medium]
