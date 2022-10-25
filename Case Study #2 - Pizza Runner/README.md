@@ -11,7 +11,7 @@
   - [A. Pizza Metrics](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
   - [B. Runner and Customer Experience](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
   - [Complete SQL Syntax](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/SQL%20Syntax)
-- [Solution on Medium]
+
 
 ***
 
