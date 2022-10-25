@@ -138,6 +138,6 @@ Analyse Covid-19 data and its impact on Malaysia stock market, specifically the 
 
 ### Tools
 - Microsoft SQL Server 2019 for data analysis - View [SQL scripts](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%236:%20Covid-19%20and%20impact%20on%20Malaysia%20Stock%20Market/SQLQuery3.sql)
-- Tableau for data visualisation - View 
+
 
 
