@@ -8,9 +8,9 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - Solution
-  - [A. Customer Journey]
-  - [B. Data Analysis Questions]
-  - [Complete SQL Syntax]
+  - [A. Customer Journey](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/A.%20Customer%20Journey.md)
+  - [B. Data Analysis Questions](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/B.%20Data%20Analysis%20Questions.md)
+  - [Complete SQL Syntax](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%233%20-%20Foodie-Fi/SQL%20Syntax)
 
 ***
 
