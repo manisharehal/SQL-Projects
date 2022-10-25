@@ -7,10 +7,10 @@
 - [Entity Relationship Diagram](#entity-relationship-diagram)
 - [Case Study Questions](#case-study-questions)
 - Solution
-  - [Data Cleaning and Transformation]
-  - [A. Pizza Metrics]
-  - [B. Runner and Customer Experience]
-  - [Complete SQL Syntax]
+  - [Data Cleaning and Transformation](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.md)
+  - [A. Pizza Metrics](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
+  - [B. Runner and Customer Experience](https://github.com/manisharehal/SQL-Projects/blob/main/Case%20Study%20%232%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
+  - [Complete SQL Syntax](https://github.com/manisharehal/SQL-Projects/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner/SQL%20Syntax)
 - [Solution on Medium]
 
 ***
